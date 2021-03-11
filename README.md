@@ -1,5 +1,7 @@
 # HttpClient sending Multipart form-data
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I63W4OK)
+
 ## [Medium Article: Upload/Download Files Using HttpClient in C#](https://codeburst.io/upload-download-files-using-httpclient-in-c-f29051dea40c)
 
 This solution includes two projects, `ClientSideApp` and `ServerSideApp`.
@@ -11,3 +13,9 @@ This solution includes two projects, `ClientSideApp` and `ServerSideApp`.
 The following gif image shows the screen recording of the working demo.
 
 ![httpclinet-file-upload-download](./httpclient-file-upload-download.gif)
+
+## License
+
+Feel free to use the code in this repository as it is under MIT license.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I63W4OK)
