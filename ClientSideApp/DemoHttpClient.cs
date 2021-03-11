@@ -53,7 +53,7 @@ namespace ClientSideApp
             var responseContent = await response.Content.ReadAsStringAsync();
             var result = JsonSerializer.Deserialize<FileUploadResult>(responseContent);
             _logger.LogInformation("Uploading is complete.");
-            return result.Guid;
+            return result?.Guid;
         }
 
         public async Task<string> DownloadFile(string guid)
